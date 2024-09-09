@@ -12,3 +12,8 @@
 /projects/*/target/
 /target/
 /usermanager_db
+
+
+**/.clj-kondo
+**/.lsp/.cache
+result
